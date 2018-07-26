@@ -2,7 +2,7 @@
     outline: 1px solid red
     } */
 .hero-image {
-    background-image: url(https://images.unsplash.com/photo-1470071459604-3b5ec3a7fe05?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=e471a27144269e4b573dfdee025e7327&auto=format&fit=crop&w=1440&q=80);
+    background-image: url(https://images.unsplash.com/uploads/1413259835094dcdeb9d3/6e609595?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c82fb4e7054d9fb4211938bf9431ccdf&auto=format&fit=crop&w=1352&q=80);
     background-position: center;
         background-repeat: no-repeat;
         background-size: cover;
@@ -33,7 +33,11 @@ h2{
 }
 i {
 color: #3b3b3b;
-margin: auto;
-display: block;
-
+}
+h6{
+    font-size: 60px;
+    margin-top: 20;
+}
+bgblue{
+background-color: aqua;
 }
